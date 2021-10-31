@@ -1,0 +1,36 @@
+{{#block "header"}}
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <title> {{#block "title"}} HEROES {{/block}} </title>
+        <link rel='stylesheet' href='https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css'>
+        <link rel='stylesheet' href='/app.css'>
+        <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css" rel="stylesheet">
+    </head>
+{{/block}}
+    <body>
+    <div class = "sidenav">
+            <a href="#"><i class="fas fa-home"></i> Home</a>
+            <a href="/heroes/new"><i class="fas fa-plus"></i> Add a Hero</a>
+            <a href="/heroes"><i class="fas fa-mask"></i> See all heroes</a>
+            <a href="/squads/new"> <i class="fas fa-plus-square"></i> Add a Squad</a>
+            <a href="/squads"> <i class="fab fa-rebel"></i> All Squads</a>
+    </div>
+    <div class="content">
+    <div class="page-header">
+       <p class="site-name text-center">squad<span class="text-danger">Unit</span></p>
+    </div>
+    <div class="col-md-12">
+        {{#block "content"}}
+
+        {{/block}}
+    </div>
+    </div>
+
+    </body>
+</html>
+
+
