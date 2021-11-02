@@ -8,6 +8,8 @@ Its An Application that allows a user to recruit a Group of Super Heroes
 
 ## Technologies Used
 * Java
+* HTML
+* CSS
 ### SetUp link:
 Deployed to: [Heroku](https://heroku9.herokuapp.com/)
 
