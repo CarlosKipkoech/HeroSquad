@@ -20,7 +20,7 @@ Used to encourage positive behaviours by having heroes governing different areas
 code written
 Tests carried out to ensure the tests pass
 final output code
-* Get user input.
+* Get user input
 * Create a hero with the input or a squad of heroes.
 * Enlist the squads and heroes for view of different attributes of the squads or heroes.
 
