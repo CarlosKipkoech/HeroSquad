@@ -1,7 +1,7 @@
 # HERO SQUAD
 
 ## Project Author:
-CARLOS KIPKOECH
+CARLOS KIPKOECH.
 
 ## Project Description
 Its An Application that allows a user to recruit a Group of Super Heroes.
