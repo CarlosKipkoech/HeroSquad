@@ -4,7 +4,7 @@
 CARLOS KIPKOECH.
 
 ## Project Description
-Its An Application that allows a user to recruit a Group of Super Heroes.
+Its An Application that allows a user to recruit a Group of Super Heroes
 
 ## Technologies Used
 * Java
