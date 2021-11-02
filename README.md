@@ -12,7 +12,7 @@ Its An Application that allows a user to recruit a Group of Super Heroes.
 Deployed to: [Heroku](https://heroku9.herokuapp.com/)
 
 ### Usage
-Used to encourage positive behaviours by having heroes governing different areas in people's characters.
+Used to encourage positive behaviours by having heroes governing different areas in people's characters
 
 ### BDD
 code written
